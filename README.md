@@ -1,5 +1,5 @@
 # Uno
-This is my implementation of Uno created a while back. Uno is a relatively random game, and even the simple AI are strong contenders.
+This is my implementation of Uno (created a while back). I added a very simple AI system but they players seem to be strong contenders.
 
 ## How to compile & run
-Simply call ```$ make```. Then execute ```$ ./Uno <numerOfHumanPlayers> <numberOfAIPlayers>```. 
+Simply call ```$ make```. Then execute ```$ ./Uno <numberOfHumanPlayers> <numberOfAIPlayers>```.
